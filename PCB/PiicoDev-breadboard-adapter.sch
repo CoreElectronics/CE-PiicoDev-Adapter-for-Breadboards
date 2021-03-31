@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "PiicoDev Adapter for Breadboards"
+Date "2021-03-31"
+Rev "v10"
+Comp "Core Electronics"
+Comment1 "https://github.com/CoreElectronics/CE-PiicoDev-Adapter-for-Breadboards"
 Comment2 ""
 Comment3 ""
 Comment4 ""
